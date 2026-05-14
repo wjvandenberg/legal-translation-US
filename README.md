@@ -60,14 +60,9 @@ Translation takes minutes rather than seconds, and the skill is larger than simp
 
 ## How to install
 
-The easiest way to install from GitHub:
-
-Click the green Code button at the top right of this repository's landing page.
-
-At the bottom of the dropdown, choose Download ZIP.
-
-Open Claude Desktop → Customize → Skills → click + → Create Plugin → Upload Plugin.
-
-Select the downloaded ZIP file. Claude Desktop handles the wrapper folder automatically.
+1. Click the green **Code** button at the top right of this repository's landing page.
+2. At the bottom of the dropdown, choose **Download ZIP**.
+3. Open Claude Desktop → **Customize** → **Skills** → click **+** → **Create Plugin** → **Upload Plugin**.
+4. Select the downloaded ZIP file. Claude Desktop handles the wrapper folder automatically.
 
 The skill is ready to use immediately. You can also install via Lawve.ai (https://lawve.ai/en/skills/en-us-legal-translation-wouter-van-den-berg) for the same one-click experience.
