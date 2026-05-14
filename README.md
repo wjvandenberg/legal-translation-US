@@ -1,8 +1,8 @@
-# `legal-translation-UK` — publication-quality legal translation into English, format-preserving and gate-checked
+# `legal-translation-US` — publication-quality legal translation into English, format-preserving and gate-checked
 
 A skill for anyone needing legal documents translated into publication-ready English. Hand it a Word file in any language; get back an English `.docx` with formatting preserved, delivering notably higher quality than e.g. Legora's DeepL tool.
 
-This is the US English default version (even though US English can be triggered on request). UK English version is available here: https://github.com/wjvandenberg/legal-translation-UK
+This is the UK English default version (even though US English can be triggered on request). UK English version is available here: https://github.com/wjvandenberg/legal-translation-UK
 
 ---
 
