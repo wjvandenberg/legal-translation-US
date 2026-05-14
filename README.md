@@ -52,7 +52,7 @@ These cover the great majority of legal-document categories in practice. A docum
 
 ---
 
-## Trade-off
+## No instant translation, but as a trade-off higher quality
 
 Translation takes minutes rather than seconds, and the skill is larger than simpler translation tools because the dictionaries are bundled in. What you get in return is a publication-ready legal document a reviewer can ship after a sanity pass — not a rough draft requiring a full second round of rewriting.
 
