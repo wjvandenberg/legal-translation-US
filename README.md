@@ -55,3 +55,19 @@ These cover the great majority of legal-document categories in practice. A docum
 ## Trade-off
 
 Translation takes minutes rather than seconds, and the skill is larger than simpler translation tools because the dictionaries are bundled in. What you get in return is a publication-ready legal document a reviewer can ship after a sanity pass — not a rough draft requiring a full second round of rewriting.
+
+---
+
+## How to install
+
+The easiest way to install from GitHub:
+
+Click the green Code button at the top right of this repository's landing page.
+
+At the bottom of the dropdown, choose Download ZIP.
+
+Open Claude Desktop → Customize → Skills → click + → Create Plugin → Upload Plugin.
+
+Select the downloaded ZIP file. Claude Desktop handles the wrapper folder automatically.
+
+The skill is ready to use immediately. You can also install via Lawve.ai (https://lawve.ai/en/skills/en-us-legal-translation-wouter-van-den-berg) for the same one-click experience.
